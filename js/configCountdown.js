@@ -2,7 +2,7 @@
 
     simplyCountdown('#cuenta', {
         year: 2023, // required
-        month: 5, // required
+        month: 7, // required
         day: 28, // required
         hours: 00, // Default is 0 [0-23] integer
         minutes: 00, // Default is 0 [0-59] integer
